@@ -21,6 +21,7 @@ All parameters are required by this module
 The following variables are provided by the module for use in other modules
 
 - `action_group_name` The name of the newly created action group
+- `action_group_id` The id of the newly created action group
 
 ## Usage
 
